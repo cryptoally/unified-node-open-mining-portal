@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/UNOMP/unified-node-open-mining-portal.png?branch=master)](https://travis-ci.org/UNOMP/unified-node-open-mining-portal)
+[![Build Status](https://travis-ci.org/cryptoally/unified-node-open-mining-portal.svg?branch=master)](https://travis-ci.org/cryptoally/unified-node-open-mining-portal)
 
 #### Unified NOMP
 
